@@ -1,0 +1,10 @@
+piweba4y.prodigy.com - - [01/Jul/1995:04:58:08 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+node144.silcom.com - - [01/Jul/1995:04:58:10 -0400] "GET /history/apollo/apollo-13/apollo-13-patch-small.gif HTTP/1.0" 200 12859
+piweba4y.prodigy.com - - [01/Jul/1995:04:58:11 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+a2216.dial.tip.net - - [01/Jul/1995:04:58:17 -0400] "GET /shuttle/missions/missions.html HTTP/1.0" 304 0
+piweba4y.prodigy.com - - [01/Jul/1995:04:58:18 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+piweba4y.prodigy.com - - [01/Jul/1995:04:58:22 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+cirkel_05.spin.com.mx - - [01/Jul/1995:04:58:24 -0400] "GET /shuttle/missions/sts-71/images/index71.gif HTTP/1.0" 200 188416
+node144.silcom.com - - [01/Jul/1995:04:58:25 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 200 3635
+node144.silcom.com - - [01/Jul/1995:04:58:25 -0400] "GET /history/apollo/images/footprint-logo.gif HTTP/1.0" 200 4209
+ppp4.nildram.co.uk - - [01/Jul/1995:04:58:26 -0400] "GET /software/winvn/winvn.html HTTP/1.0" 200 9867

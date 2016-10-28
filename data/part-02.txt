@@ -1,0 +1,10 @@
+brandt.xensei.com - - [01/Jul/1995:00:50:29 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+ppp224.st.rim.or.jp - - [01/Jul/1995:00:50:31 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+dal143.computek.net - - [01/Jul/1995:00:50:31 -0400] "GET /shuttle/resources/orbiters/atlantis.html HTTP/1.0" 200 7025
+204.120.34.71 - - [01/Jul/1995:00:50:32 -0400] "GET /shuttle/missions/missions.html HTTP/1.0" 200 8677
+remote9.compusmart.ab.ca - - [01/Jul/1995:00:50:32 -0400] "GET /history/apollo/apollo-13/apollo-13-info.html HTTP/1.0" 200 1583
+palona1.cns.hp.com - - [01/Jul/1995:00:50:32 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0915.jpg HTTP/1.0" 200 39654
+dd09-056.compuserve.com - - [01/Jul/1995:00:50:33 -0400] "GET /history/apollo/images/footprint-small.gif HTTP/1.0" 200 18149
+dal143.computek.net - - [01/Jul/1995:00:50:36 -0400] "GET /shuttle/resources/orbiters/atlantis-logo.gif HTTP/1.0" 200 4179
+ncg-106.axionet.com - - [01/Jul/1995:00:50:36 -0400] "GET /shuttle/missions/sts-66/mission-sts-66.html HTTP/1.0" 200 81920
+xyzzy.cts.com - - [01/Jul/1995:00:50:36 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0916.jpg HTTP/1.0" 200 34029

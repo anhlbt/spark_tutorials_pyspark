@@ -1,0 +1,10 @@
+eric.njcc.com - - [01/Jul/1995:01:48:34 -0400] "GET /icons/image.xbm HTTP/1.0" 200 509
+202.33.84.238 - - [01/Jul/1995:01:48:35 -0400] "GET /shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg HTTP/1.0" 200 65536
+204.96.174.56 - - [01/Jul/1995:01:48:37 -0400] "GET /shuttle/missions/sts-71/images/images.html HTTP/1.0" 200 7634
+msp6-11.nas.mr.net - - [01/Jul/1995:01:48:37 -0400] "GET /shuttle/missions/missions.html HTTP/1.0" 200 8677
+rppp77.cofc.edu - - [01/Jul/1995:01:48:38 -0400] "GET /history/apollo/apollo-13/images/ HTTP/1.0" 200 1851
+vagrant.vf.mmc.com - - [01/Jul/1995:01:48:38 -0400] "GET /history/apollo/apollo-13/movies/ HTTP/1.0" 200 945
+www-d2.proxy.aol.com - - [01/Jul/1995:01:48:39 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+rppp77.cofc.edu - - [01/Jul/1995:01:48:39 -0400] "GET /icons/image.xbm HTTP/1.0" 200 509
+ip206.cap.primenet.com - - [01/Jul/1995:01:48:40 -0400] "GET /shuttle/missions/sts-71/mission-sts-71.html HTTP/1.0" 200 12040
+slip13.nb2.usu.edu - - [01/Jul/1995:01:48:40 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786

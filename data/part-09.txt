@@ -1,0 +1,10 @@
+ppp2.atlantic.net - - [01/Jul/1995:03:39:33 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+ppp2.atlantic.net - - [01/Jul/1995:03:39:33 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 304 0
+drjo018a165.embratel.net.br - - [01/Jul/1995:03:39:35 -0400] "GET /mdss/MDSS.html HTTP/1.0" 200 2727
+drjo018a165.embratel.net.br - - [01/Jul/1995:03:39:38 -0400] "GET /mdss/s_md-2.gif HTTP/1.0" 200 15528
+drjo018a165.embratel.net.br - - [01/Jul/1995:03:39:39 -0400] "GET /mdss/station.gif HTTP/1.0" 200 5878
+drjo018a165.embratel.net.br - - [01/Jul/1995:03:39:39 -0400] "GET /mdss/s_delta2.gif HTTP/1.0" 200 4109
+slip1.yab.com - - [01/Jul/1995:03:39:40 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+alyssa.prodigy.com - - [01/Jul/1995:03:39:41 -0400] "GET /shuttle/missions/sts-71/images/images.html HTTP/1.0" 200 7634
+drjo018a165.embratel.net.br - - [01/Jul/1995:03:39:44 -0400] "GET /mdss/dcy2.gif HTTP/1.0" 200 5679
+nbdyn34.dip.csuchico.edu - - [01/Jul/1995:03:39:48 -0400] "GET /shuttle/resources/orbiters/discovery.html HTTP/1.0" 200 6861

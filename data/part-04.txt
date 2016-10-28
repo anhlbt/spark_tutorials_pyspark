@@ -1,0 +1,11 @@
+ppp12.quiknet.com - - [01/Jul/1995:01:29:50 -0400] "GET /cgi-bin/imagemap/countdown?105,169 HTTP/1.0" 302 110
+ppp12.quiknet.com - - [01/Jul/1995:01:29:51 -0400] "GET /shuttle/missions/sts-71/images/images.html HTTP/1.0" 200 7634
+lanz.islandnet.com - - [01/Jul/1995:01:29:56 -0400] "GET /shuttle/missions/sts-63/mission-sts-63.html HTTP/1.0" 200 53003
+cs3p3.ipswichcity.qld.gov.au - - [01/Jul/1995:01:29:59 -0400] "GET /shuttle/resources/orbiters/atlantis-logo.gif HTTP/1.0" 200 4179
+
+prg1.prgone.com - - [01/Jul/1995:01:30:02 -0400] "GET /shuttle/missions/sts-71/movies/sts-71-launch-3.mpg HTTP/1.0" 200 130724
+watermark.helix.net - - [01/Jul/1995:01:30:02 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0544.txt HTTP/1.0" 200 979
+bertppp1.cybernw.com - - [01/Jul/1995:01:30:08 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 200 3635
+ppp160.iadfw.net - - [01/Jul/1995:01:30:08 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0915.jpg HTTP/1.0" 200 39654
+bertppp1.cybernw.com - - [01/Jul/1995:01:30:08 -0400] "GET /history/apollo/images/footprint-logo.gif HTTP/1.0" 200 4209
+freenet.edmonton.ab.ca - - [01/Jul/1995:01:30:09 -0400] "GET /shuttle/countdown/video/livevideo.jpeg HTTP/1.0" 200 45029

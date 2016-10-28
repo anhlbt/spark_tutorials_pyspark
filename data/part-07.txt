@@ -1,0 +1,10 @@
+slip137-5.pt.uk.ibm.net - - [01/Jul/1995:02:35:39 -0400] "GET /shuttle/countdown/lps/back.gif HTTP/1.0" 200 1289
+piweba2y.prodigy.com - - [01/Jul/1995:02:35:42 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+lt6.lasertone.com - - [01/Jul/1995:02:35:44 -0400] "GET /shuttle/countdown/lps/images/C-9-10.gif HTTP/1.0" 200 9444
+piweba2y.prodigy.com - - [01/Jul/1995:02:35:44 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+pool03-30.innet.be - - [01/Jul/1995:02:35:47 -0400] "GET /ksc.html HTTP/1.0" 200 7074
+pool03-30.innet.be - - [01/Jul/1995:02:35:49 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 200 5866
+pool03-30.innet.be - - [01/Jul/1995:02:35:51 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+pool03-30.innet.be - - [01/Jul/1995:02:35:53 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+pool03-30.innet.be - - [01/Jul/1995:02:35:53 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+ip-pdx4-06.teleport.com - - [01/Jul/1995:02:35:54 -0400] "GET /shuttle/missions/sts-71/sts-71-day-01-highlights.html HTTP/1.0" 200 2722

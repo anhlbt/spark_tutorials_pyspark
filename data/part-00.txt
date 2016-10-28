@@ -1,0 +1,12 @@
+ppp24.swcp.com - - [01/Jul/1995:00:18:39 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+
+cu-dialup-1005.cit.cornell.edu - - [01/Jul/1995:00:18:39 -0400] "GET /pub/winvn/readme.txt HTTP/1.0" 404 -
+whlane.cts.com - - [01/Jul/1995:00:18:41 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+whlane.cts.com - - [01/Jul/1995:00:18:41 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+slip-5.io.com - - [01/Jul/1995:00:18:41 -0400] "GET /history/apollo/as-201/ HTTP/1.0" 200 1699
+
+204.227.13.26 - - [01/Jul/1995:00:18:42 -0400] "GET /cgi-bin/imagemap/countdown?98,108 HTTP/1.0" 302 111
+h-shining.norfolk.infi.net - - [01/Jul/1995:00:18:42 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+ix-tam1-26.ix.netcom.com - - [01/Jul/1995:00:18:43 -0400] "GET /shuttle/missions/sts-68/images/ksc-upclose.gif HTTP/1.0" 200 86984
+burger.letters.com - - [01/Jul/1995:00:18:43 -0400] "GET /shuttle/countdown/liftoff.html HTTP/1.0" 304 0
+ppp160.iadfw.net - - [01/Jul/1995:00:18:44 -0400] "GET /htbin/wais.pl HTTP/1.0" 200 308

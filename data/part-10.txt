@@ -1,0 +1,10 @@
+gea5.lif.icnet.uk - - [01/Jul/1995:04:15:32 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+gea5.lif.icnet.uk - - [01/Jul/1995:04:15:32 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+henry.interlink.no - - [01/Jul/1995:04:15:40 -0400] "GET /shuttle/missions/sts-71/images/index71.gif HTTP/1.0" 200 73728
+whiteoaks.com - - [01/Jul/1995:04:15:41 -0400] "GET /history/apollo/images/apollo-small.gif HTTP/1.0" 200 9630
+ad02-010.compuserve.com - - [01/Jul/1995:04:15:45 -0400] "GET /shuttle/missions/sts-66/mission-sts-66.html HTTP/1.0" 200 173983
+whiteoaks.com - - [01/Jul/1995:04:15:45 -0400] "GET /history/apollo/apollo.html HTTP/1.0" 200 3258
+whiteoaks.com - - [01/Jul/1995:04:15:47 -0400] "GET /history/apollo/images/footprint-small.gif HTTP/1.0" 200 18149
+168.95.123.108 - - [01/Jul/1995:04:15:47 -0400] "GET /images/shuttle-patch-small.gif HTTP/1.0" 200 4179
+168.95.123.108 - - [01/Jul/1995:04:15:54 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+168.95.123.108 - - [01/Jul/1995:04:15:57 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713

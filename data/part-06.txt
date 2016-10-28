@@ -1,0 +1,10 @@
+turnpike28.onramp.net - - [01/Jul/1995:02:08:48 -0400] "GET /shuttle/countdown/ HTTP/1.0" 304 0
+ip168.phx.primenet.com - - [01/Jul/1995:02:08:49 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+alyssa.prodigy.com - - [01/Jul/1995:02:08:50 -0400] "GET /shuttle/technology/images/crew_compartment_13-small.gif HTTP/1.0" 200 79088
+turnpike28.onramp.net - - [01/Jul/1995:02:08:50 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 304 0
+turnpike28.onramp.net - - [01/Jul/1995:02:08:50 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+turnpike28.onramp.net - - [01/Jul/1995:02:08:50 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 304 0
+ip168.phx.primenet.com - - [01/Jul/1995:02:08:54 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+ip168.phx.primenet.com - - [01/Jul/1995:02:08:54 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+ip168.phx.primenet.com - - [01/Jul/1995:02:08:56 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+alyssa.prodigy.com - - [01/Jul/1995:02:08:56 -0400] "GET /shuttle/technology/images/aft_fuselage_2-small.gif HTTP/1.0" 200 45632

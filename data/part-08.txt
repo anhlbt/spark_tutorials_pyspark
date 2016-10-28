@@ -1,0 +1,10 @@
+ppp-mia-47.shadow.net - - [01/Jul/1995:03:05:24 -0400] "GET /shuttle/countdown/liftoff.html HTTP/1.0" 200 4538
+dial023.vanderbilt.edu - - [01/Jul/1995:03:05:24 -0400] "GET /shuttle/missions/sts-73/mission-sts-73.html HTTP/1.0" 200 4085
+ttyb5.shasta.com - - [01/Jul/1995:03:05:25 -0400] "GET /shuttle/missions/sts-70/mission-sts-70.html HTTP/1.0" 200 13469
+dial023.vanderbilt.edu - - [01/Jul/1995:03:05:25 -0400] "GET /shuttle/missions/sts-73/sts-73-patch-small.gif HTTP/1.0" 200 4179
+ssdesk.dukepower.com - - [01/Jul/1995:03:05:26 -0400] "GET /shuttle/resources/orbiters/discovery-logo.gif HTTP/1.0" 200 4179
+ttyb5.shasta.com - - [01/Jul/1995:03:05:27 -0400] "GET /shuttle/missions/sts-70/sts-70-patch-small.gif HTTP/1.0" 200 5026
+crl3.crl.com - - [01/Jul/1995:03:05:31 -0400] "GET /shuttle/countdown/lps/fr.html HTTP/1.0" 200 1879
+crl3.crl.com - - [01/Jul/1995:03:05:33 -0400] "GET /shuttle/countdown/lps/fr.gif HTTP/1.0" 200 30232
+scooter.pa-x.dec.com - - [01/Jul/1995:03:05:34 -0400] "GET /facilities/spaceport.html HTTP/1.0" 200 6755
+ttyb5.shasta.com - - [01/Jul/1995:03:05:35 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
